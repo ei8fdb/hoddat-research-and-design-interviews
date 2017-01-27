@@ -1,0 +1,45 @@
+My name is Dana Chisnell and I work for the United States Digital Service
+
+I'm a design director at the digital service team at US Citizenship and Immigration Service
+
+I started working in user-centred design at a time when no-one thought of it as user centred design.
+
+We didn't have names for things,m we just made things better for people.
+
+Ah, my start was really an accident of birth and timing. I finished university at a time when people were starting to get computers in there offices, and erxchanging them for type-writers.
+
+The documentation was uniformly, bad and system orientated, and eh, the group that I worked with at the time, American's Institutes for research the document design centre, wrote the first task orientated user based documentation for a computer systems, in the world. As far as we know.
+
+So, I was kinda hooked. Wed did usability testing on the documentation, because we couldn't get the software engineers to change the software.
+
+So we had to make sure that the procedures and the documentation worked as well as they possibly could for, for the users.
+
+So thats really how that all started.
+
+And that was, a very long time ago now.
+
+I would be going back to the Centre for Civic Design which I founded with Whitney Quesenbery in 2013 where we work on design in election and administration.
+
+So we help county and state election officials do a better job of designing and writing their election ballots, their voter information, their voter education, the training for their poll workers, and eh, all kinds of forms design.
+
+Oh my gosh. I'd probably be a labour organiser. (Laughs)
+
+Designers and researchers should go to work in government because the needs are so great.
+
+While if you go to work in tech, or for a financial services company you probably can make a lot of money for your company. If you go to work for government, you can change the individual lives of millions of people and have a positive affect on their families for generations. There's really nothing like solving some of the most wicked problems on the planet in collaboration with people who've been trying to do this for a very long time.
+
+What I always say to them. I've had a lot of opportunities to say it to them over the last year and a half.
+
+Is watch and listen, treat it as a research project, for your first weeks or months.
+
+To understand what the context is, what the constraints are. Next start asking questions. And one of the questions is "where does it say that (pause) in the laws or the regulations or the policies?" Can you please show me what the origin of that (pause) thing is, that you think is a rule, or a constraint. And then lets talk about what that really means in the context that we're working in.
+
+(Laughs) Software is not battle ships. Sometimes it feels like it is. And the way it gets written government often is treated that way. The process, up until very recently has been the same. You have a group of people who spend a number of years developing the very specific requirements. What are the things this, "battleship" must have to execute the mission?
+
+And eh, when those requirements are all done, then you can start actually designing and engineering that battleship.
+
+Mostly that works fine, for battleships. but it really doesn't work, at all, for software. And we've seen this play out dozens of times in the United States, and its probably been true in the UK government as well.
+
+And in fact I think thats probably one of the origins for the Government Digital Service, is the National Health Service was having some, IT issues, while we had a really huge one in the US called HEALTHCARE.GOV.
+
+There were more than fifty contracting companies involved in this project. There were a couple, two, three, four different agencies, um, and there was no integration and there was no co-ordination. And that showed the day that the system was turned on. Eight million people
