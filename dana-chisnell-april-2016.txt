@@ -1,45 +1,53 @@
-My name is Dana Chisnell and I work for the United States Digital Service
+My name is Dana Chisnell and I work for the United States Digital Service. I'm a design director at the digital service team at US Citizenship and Immigration Service.
 
-I'm a design director at the digital service team at US Citizenship and Immigration Service
+I started working in user centred design at a time when no-one thought of it as user centred design.
 
-I started working in user-centred design at a time when no-one thought of it as user centred design.
+Um, we didn't have names for things, we just made things better for people.
 
-We didn't have names for things,m we just made things better for people.
+Ah, my start was really an accident of birth and timing. Um, I finished university at a time when people were starting to get computers in there offices and, exchanging them for type-writers.
 
-Ah, my start was really an accident of birth and timing. I finished university at a time when people were starting to get computers in there offices, and erxchanging them for type-writers.
+The documentation was uniformly, bad and system orientated, and eh, the group that I worked with at the time, America's Institutes for research the document design centre, wrote the first task orientated, eh user based documentation for a computer systems, in the world. As far as we know.
 
-The documentation was uniformly, bad and system orientated, and eh, the group that I worked with at the time, American's Institutes for research the document design centre, wrote the first task orientated user based documentation for a computer systems, in the world. As far as we know.
+So, I was kinda hooked. We did usability testing on the documentation, because we couldn't get the software engineers to change the software. So we had to make sure that the procedures and the documentation worked as well as they possibly could for, for the users.
 
-So, I was kinda hooked. Wed did usability testing on the documentation, because we couldn't get the software engineers to change the software.
+So that's really how that all started. And that was, a very long time ago now.
 
-So we had to make sure that the procedures and the documentation worked as well as they possibly could for, for the users.
-
-So thats really how that all started.
-
-And that was, a very long time ago now.
-
-I would be going back to the Centre for Civic Design which I founded with Whitney Quesenbery in 2013 where we work on design in election and administration.
+I would be going back to the Centre for Civic Design which I founded with Whitney Quesenbery in 2013 where we work on design in election administration.
 
 So we help county and state election officials do a better job of designing and writing their election ballots, their voter information, their voter education, the training for their poll workers, and eh, all kinds of forms design.
 
-Oh my gosh. I'd probably be a labour organiser. (Laughs)
+Oh my gosh. I'd probably be a labour organiser. (laughs)
 
-Designers and researchers should go to work in government because the needs are so great.
+Designers and researchers should go to work in government because the needs are so great. While if you go to work in tech, or for a financial services company you probably can make a lot of money for your company.
 
-While if you go to work in tech, or for a financial services company you probably can make a lot of money for your company. If you go to work for government, you can change the individual lives of millions of people and have a positive affect on their families for generations. There's really nothing like solving some of the most wicked problems on the planet in collaboration with people who've been trying to do this for a very long time.
+If you go to work for government, you can change the individual lives of millions of people, and have a positive affect on their families for generations.
 
-What I always say to them. I've had a lot of opportunities to say it to them over the last year and a half.
+Um, there's really nothing like solving some of the most wicked problems on the planet in collaboration with people who've been trying to do this for a very long time.
 
-Is watch and listen, treat it as a research project, for your first weeks or months.
+What I always say to them. I've had a lot of opportunities to say this over the last year and a half. Is watch and listen, treat it like a research project, for your first weeks or months. To understand what the context is, what the constraints are.
 
-To understand what the context is, what the constraints are. Next start asking questions. And one of the questions is "where does it say that (pause) in the laws or the regulations or the policies?" Can you please show me what the origin of that (pause) thing is, that you think is a rule, or a constraint. And then lets talk about what that really means in the context that we're working in.
+Next start asking questions. And one of the questions is "where does it say that (laughs) in the laws or the regulations or the policies?" Can you please show me what the origin of that (pause) thing is, that you think is a rule, or a constraint.
 
-(Laughs) Software is not battle ships. Sometimes it feels like it is. And the way it gets written government often is treated that way. The process, up until very recently has been the same. You have a group of people who spend a number of years developing the very specific requirements. What are the things this, "battleship" must have to execute the mission?
+And then lets talk about what that really means in, in the context that we're working in.
+
+(laughs) Software is not battle ships. (sighs) Sometimes it feels like it is. And the way it gets written government often is treated that way . The process, up until very recently has been the same.
+
+You have a group of people who spend a number of years developing the very specific requirements. What, what are the things this, "battleship" must have, to execute the mission?
 
 And eh, when those requirements are all done, then you can start actually designing and engineering that battleship.
 
-Mostly that works fine, for battleships. but it really doesn't work, at all, for software. And we've seen this play out dozens of times in the United States, and its probably been true in the UK government as well.
+But, mostly that works fine, for battleships. But it really doesn't work, at all, for software. And we've seen this play out dozens of times in the United States, and probably it's been true in the UK government as well.
 
-And in fact I think thats probably one of the origins for the Government Digital Service, is the National Health Service was having some, IT issues, while we had a really huge one in the US called HEALTHCARE.GOV.
+And in fact I think that's probably one of the origins for the Government Digital Service, is the National Health Service was having some, IT issues, while we had a really huge one in the US, called HEALTHCARE.GOV.
 
-There were more than fifty contracting companies involved in this project. There were a couple, two, three, four different agencies, um, and there was no integration and there was no co-ordination. And that showed the day that the system was turned on. Eight million people
+Um, there were more than fifty contracting companies involved in this project. There were a couple, two, three, four different agencies, um, and there was no integration and there was no co-ordination. And that showed.
+
+The day that the systems turned on and eight million people tried to sign up for, health insurance, and the servers just fell over. And so, the process leading up to that point, looked very much like we were building a battleship.
+
+And that, that one sunk. (laughs)
+
+And now we're in the business of actually making software that delivers services to, human beings. And that, that's a pretty profound change in culture.
+
+So, if you're interested in the Digital Service, the place to go is WHITEHOUSE.GOV/USDS. If you have any interest at all in civic design in the US outside the Digital Service and are especially interested in how elections get designed in the US, you can go to CIVICDESIGN.ORG
+
+Man, there's, there's labour to be organised. (laughs)
